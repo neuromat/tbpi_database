@@ -2,8 +2,8 @@
 
 ## About the database
 
-This database is centered on adult traumatic brachial plexus injury (TBPI). TBPI mainly affects young males usually involved in motorcycle accidents, often leading to severe motor and sensory impairment in the affected upper limb. This initiative aimed at encouraging data sharing and reuse. Managing data from TBPI may allow the identification of functional markers related to patients' clinical improvement and foster the development of new investigative tools to elucidate its mechanisms. 
+The Brazilian public database on TBPI (TBPI-DB) is an initiative aimed at encouraging clinical data sharing and reuse. Data from 170 Brazilian adult TBPI patients with varying degrees of functional impairment was collected. 
 
 ## Data description 
 
-Detailed electronic questionnaires were designed to collect patients' epidemiological, physical, and clinical data. The free software Neuroscience Experiments System (NES) was employed to support data storage and management. Hence, data from 170 Brazilian adult TBPI patients with varying degrees of functional impairment was collected. The Unified Admission Assessment (Q44071_unified-admission-assessment) was devised to register the first patient evaluation by the TBPI research group. The Unified Follow-up Assessment (Q92510_unified-follow-up-assessment) was devised to register subsequent follow-up visits. The Unified Surgery Assessment (Q61802_unified-surgical-evaluation) was devised to register the surgical procedures employed for brachial plexus reconstruction. Data collection occurred between 2014 and 2020.
+The dataset can be downloaded as a single .ZIP file. It compresses several directories with plain-text files containing textual and numeric data that can be opened with a large variety of computational tools, from simple text editors to general-purpose statistical software. In all the .CSV files of the dataset, values (fields) in each line are separated by commas (,), textual values are enclosed by quotation marks (""), and the first file line contains the column titles (i.e., the descriptions of fields).
