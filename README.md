@@ -7,3 +7,6 @@ The Brazilian public database on TBPI (TBPI-DB) is an initiative aimed at encour
 ## Data organization 
 
 The dataset is organized in directories with plain-text files containing textual and numeric data that can be opened with a large variety of computational tools, from simple text editors to general-purpose statistical software. In all the .CSV files of the dataset, values (fields) in each line are separated by commas (,), textual values are enclosed by quotation marks (""), and the first file line contains the column titles (i.e., the descriptions of fields).
+
+
+The dataset is also available on figshare: https://figshare.com/s/6789602f5205639d32c1
